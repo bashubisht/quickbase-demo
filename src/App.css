@@ -1,0 +1,28 @@
+.formContainer {
+  border-width: 1px;
+  margin: auto;
+  margin-top: 2rem;
+  padding-bottom: 2rem;
+  border-color: rgb(111, 204, 206);
+}
+
+.headerContainer {
+  border-color: rgb(165, 244, 243);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(151, 213, 237);
+  color: blue;
+  text-align: center;
+}
+
+.radioButton:hover{
+  cursor: pointer;
+}
+
+.requiredCheckbox:hover {
+  cursor: pointer;
+}
+
+.dropdownField {
+  cursor: pointer;
+}
